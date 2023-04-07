@@ -1,6 +1,4 @@
-[![Header](https://github.com/zlshames/zlshames/raw/main/standard.gif)](https://www.zlshames.github.io/)
-
-##### Hi, I'm Zach:
+#### Hi, I'm Zach:
 
 - 🦏 Solutions Architect, Threat Intelligence Engineer
 - 🎓 Graduated with a Bachelor of Science, studying Computer Science - James Madison University
