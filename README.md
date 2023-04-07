@@ -1,7 +1,7 @@
 #### Hi, I'm Zach:
 
 - 🦏 Solutions Architect, Threat Intelligence Engineer
-- 🎓 Graduated with a Bachelor of Science, studying Computer Science - James Madison University
+- 🎓 Graduated with a Bachelor of Science, Computer Science - James Madison University
 - 🧠 Interested in all things cybersecurity, 3D printing, software development, and tech in general!
 - 📬 You can reach me with the links below
 
