@@ -8,6 +8,13 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zlshames@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-shames-86549984/)
 
+##### My GitHub activity
+
+<a href="https://github.com/zlshames">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zlshames&theme=buefy&show_icons=true&role=OWNER,ORGANIZATION_MEMBER" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlshames&theme=buefy&layout=compact&role=OWNER,ORGANIZATION_MEMBER" />
+</a>
+
 ##### Languages I use
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
