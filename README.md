@@ -2,7 +2,7 @@
 
 - 🦏 Solutions Architect, Threat Intelligence Engineer
 - 🎓 Graduated with a Bachelor of Science, Computer Science - James Madison University
-- 🧠 Interested in all things cybersecurity, 3D printing, software development, and tech in general!
+- 🧠 Interested in all things cybersecurity, 3D printing, software development, and tech!
 - 📬 You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zlshames@gmail.com)
