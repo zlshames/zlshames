@@ -7,6 +7,7 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zlshames@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-shames-86549984/)
+[![Medium](https://img.shields.io/badge/-MEDIUM-00AB6C?style=for-the-badge&logo=medium&logoColor=white)]([https://www.linkedin.com/in/zach-shames-86549984/](https://medium.com/@zlshames))
 
 ##### My GitHub activity
 
